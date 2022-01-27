@@ -1,0 +1,4 @@
+﻿  3sem lab4.cpp
+C:\Users\user\source\repos\3sem lab4\3sem lab4\3sem lab4.cpp(162,29): warning C4291: void *xxx::operator new(size_t,int): не найден соответствующий оператор удаления; если при инициализации возникнет исключение, память не будет освобождена
+C:\Users\user\source\repos\3sem lab4\3sem lab4\3sem lab4.cpp(27): message : см. объявление "xxx::operator new"
+  3sem lab4.vcxproj -> C:\Users\user\source\repos\3sem lab4\Debug\3sem lab4.exe
